@@ -4,6 +4,7 @@ A sleek, responsive web calculator built with HTML, CSS, and JavaScript. Feature
 
 ## 🚀 Live Demo
 You can access the live app here:
+https://ekbiharii.github.io/web-calculator/
 
 ---
 
